@@ -1,7 +1,7 @@
 RRHH
 ============
 
-ProdaricRRHH, es un "Sistema de gestión de recursos humanos".
+Sistema de gestión de recursos humanos
 
 
 Estamos desarrollando versión por cada framework, para ver el rendimiento de cada uno.
